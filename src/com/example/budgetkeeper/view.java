@@ -35,6 +35,8 @@ import android.widget.Toast;
 public class view extends Activity implements OnClickListener,
 		OnItemSelectedListener {
 
+	int abc;
+
 	DatabaseHelper myDb;
 
 	Button green_button, blue_button, red_button, yellow_button, home_button,
