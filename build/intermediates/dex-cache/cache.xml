@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Eclipse Android Workspace\BudgetKeeper\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="E:\Eclipse Android Workspace\BudgetKeeper\build\intermediates\pre-dexed\debug\android-support-v4_09082ca3a268cea1ba00bbfa28244b838eb06f45.jar" />
+    </item>
+    <item
+        jar="E:\Eclipse Android Workspace\BudgetKeeper\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\Eclipse Android Workspace\BudgetKeeper\build\intermediates\pre-dexed\debug\achartengine-1.1.0_5a93860080daf9aeb230d7ae9c5926ecac355d53.jar" />
+    </item>
+
+</items>

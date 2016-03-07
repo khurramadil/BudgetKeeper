@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\view.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\view.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\newentry.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\newentry.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\graph.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\view.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\view.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\graph.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\editentry.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\editentry.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\editentry.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\editentry.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\prompt.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\prompt.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\newentry.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\newentry.xml"
+    },
+    {
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\prompt.xml",
+        "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\layout\\prompt.xml"
+    }
+]
