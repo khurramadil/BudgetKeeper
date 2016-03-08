@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.CalendarView;
 
 public class calendar extends Activity implements OnClickListener {
+
+	int xyz;
 	
 	Button green_button, blue_button, red_button, yellow_button, home_button;
 	Context context;
