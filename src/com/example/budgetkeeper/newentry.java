@@ -25,6 +25,7 @@ import android.widget.Toast;
 public class newentry extends Activity implements OnClickListener {
 
 	DatabaseHelper myDb;
+	int xyz;
 
 	Button green_button, blue_button, red_button, yellow_button, home_button,
 			reset, save;
