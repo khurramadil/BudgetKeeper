@@ -776,5 +776,394 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 52,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 52,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 52,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 34,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 42,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 52,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 53,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 53,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 51,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 51,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 63,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 63,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 51,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 51,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 45,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 45,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 53,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 53,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 48,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 48,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 42,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 42,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 44,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 44,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 43,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 43,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 41,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 41,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "C:\\Users\\Harris Ahmad\\AndroidStudioProjects\\BudgetKeeper\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
     }
 ]
