@@ -6,5 +6,9 @@
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

@@ -4,6 +4,10 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\menu\\main.xml"
     },
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\menu\\main.xml"
+    },
+    {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\menu\\main.xml"
     }

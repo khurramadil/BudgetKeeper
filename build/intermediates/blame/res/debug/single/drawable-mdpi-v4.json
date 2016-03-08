@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
     },
