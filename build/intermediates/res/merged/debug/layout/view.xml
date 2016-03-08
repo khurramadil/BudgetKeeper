@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/top"
-        android:layout_toLeftOf="@+id/binding" >
+        android:layout_toLeftOf="@drawable/binding" >
 
         <RelativeLayout
             android:id="@+id/task_screen"
@@ -50,7 +50,7 @@
 
             <TextView
                 android:id="@+id/title1"
-                android:layout_marginTop="60dp"
+                android:layout_marginTop="44dp"
                 android:layout_marginBottom="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -95,10 +95,10 @@
                         android:text="View" />
                 </LinearLayout>
             </RelativeLayout>
-            
+
             <TextView
                 android:id="@+id/title2"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="110dp"
                 android:layout_marginBottom="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -152,15 +152,30 @@
                 android:background="@drawable/newentrypress"
                 android:text="Search" />
 
+            <TextView
+                android:id="@+id/title3"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/viewRelativeContainer"
+                android:text="Search data by title"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+
+
             <EditText
                 android:id="@+id/txt_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_toLeftOf="@+id/btn_title_search"
                 android:layout_marginLeft="20dp"
-                android:layout_alignParentTop="true"
+                android:layout_marginTop="50dp"
+                android:layout_alignParentTop="false"
+                android:layout_below="@+id/viewRelativeContainer"
                 android:ems="10" >
-                
+
                 <requestFocus />
             </EditText>
 
@@ -168,13 +183,15 @@
                 android:id="@+id/btn_title_search"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
+                android:layout_alignParentTop="false"
                 android:layout_alignParentRight="true"
                 android:paddingRight="10dp"
                 android:paddingLeft="10dp"
+                android:layout_marginTop="50dp"
                 android:background="@drawable/newentrypress"
+                android:layout_below="@+id/viewRelativeContainer"
                 android:text="Search Title" />
-            
+
         </RelativeLayout>
 
         <TextView

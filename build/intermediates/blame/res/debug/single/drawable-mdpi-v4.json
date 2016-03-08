@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-mdpi\\ic_launcher.png"
     },
