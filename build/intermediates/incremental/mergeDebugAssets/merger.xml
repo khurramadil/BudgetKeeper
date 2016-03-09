@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Android Studio Projects Workspace\BudgetKeeper\assets"/></dataSet><dataSet config="debug"><source path="E:\Android Studio Projects Workspace\BudgetKeeper\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\BKrepo\BudgetKeeper\assets"/></dataSet><dataSet config="debug"><source path="D:\BKrepo\BudgetKeeper\build-types\debug\assets"/></dataSet></merger>

@@ -13,6 +13,9 @@ import android.graphics.Color;
 import android.graphics.Paint.Align;
 
 public class barGraph {
+
+	int temporary;
+	int temporary2;
 	
 	int[] amount_months = new int[12];
 	

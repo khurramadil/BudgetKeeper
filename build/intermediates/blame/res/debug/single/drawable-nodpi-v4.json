@@ -4,14 +4,6 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\wood.jpg"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\background.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gp.jpg",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\gp.jpg"
-    },
-    {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\blue.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\blue.xml"
     },
@@ -24,8 +16,8 @@
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\repeat_wood_bg.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x2.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\x2.png"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrypress.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\newentrypress.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\p.png",
@@ -44,32 +36,40 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\pressed.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\binding.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\binding.png"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrybutton.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\newentrybutton.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_b.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\custom_b.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_main_bg.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\repeat_main_bg.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\edit_text.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\edit_text.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logobutton.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logobutton.xml"
     },
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home_button.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\home_button.xml"
+    },
+    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\new_h.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\new_h.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\homelogo.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\homelogo.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\h.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\h.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wood.jpg",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\wood.jpg"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrypress.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\newentrypress.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo2.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\logo2.png"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo2.png",
@@ -108,12 +108,12 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\repeat_wood_bg.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button3.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\button3.xml"
-    },
-    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\red.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\red.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wood.jpg",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\wood.jpg"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_border.xml",
@@ -136,12 +136,8 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\p.png"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo2.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logo2.png"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bgb.jpg",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\bgb.jpg"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_wood_bg.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\repeat_wood_bg.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrybutton.xml",
@@ -164,24 +160,32 @@
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\border.xml"
     },
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bind.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\bind.png"
+    },
+    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_b.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\custom_b.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logo.png"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\background.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button2.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\button2.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\binding.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\binding.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\p.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\p.png"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\edit_text.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\edit_text.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\green.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\green.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\s1.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\s1.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\green.xml",
@@ -200,24 +204,24 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\yellow.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\s1.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\s1.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button4.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\button4.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bind.png",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\bind.png"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\x.png"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\red.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\red.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pressed.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\pressed.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gp.jpg",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\gp.jpg"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logopressed.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\logopressed.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x2.png",
@@ -228,56 +232,44 @@
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\new_h.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\new_h.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\new_h.xml"
-    },
-    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_main_bg.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\repeat_main_bg.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_wood_bg.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\repeat_wood_bg.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\background.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\yellow.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\yellow.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button2.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\button2.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pressed.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\pressed.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pressed.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\pressed.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logopressed.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logopressed.xml"
-    },
-    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo2.png",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\logo2.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\border.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\button.xml"
     },
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_border.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\custom_border.xml"
+    },
+    {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\h.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\h.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logobutton.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logobutton.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bind.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\bind.png"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_main_bg.xml",
@@ -308,26 +300,6 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\newentrypress.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\border.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home_button.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\home_button.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_bg.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\repeat_bg.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\homelogo.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\homelogo.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\p.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\p.png"
-    },
-    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\border.xml"
     },
@@ -340,8 +312,8 @@
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logo.png"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\b.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\b.png"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\red.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\red.xml"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\homelogo.xml",
@@ -352,16 +324,20 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\homelogo.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_border.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\custom_border.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wood.jpg",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\wood.jpg"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button3.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\button3.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\background.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\yellow.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\yellow.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x2.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\x2.png"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gp.jpg",
@@ -372,8 +348,20 @@
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\newentrybutton.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrybutton.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\newentrybutton.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gp.jpg",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\gp.jpg"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logobutton.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\logobutton.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\x.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bgb.jpg",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\bgb.jpg"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\newentrypress.xml",
@@ -388,40 +376,60 @@
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\home.png"
     },
     {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\green.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\green.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\new_h.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\new_h.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\blue.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\blue.xml"
+    },
+    {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home.png",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\home.png"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\button.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_main_bg.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\repeat_main_bg.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\custom_b.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\custom_b.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\green.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\green.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home.png",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\home.png"
-    },
-    {
-        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\b.png",
-        "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\b.png"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\repeat_bg.xml",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\repeat_bg.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\blue.xml",
         "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\blue.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\button.xml"
+        "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\b.png",
+        "source": "D:\\localrepo\\BudgetKeeper\\res\\drawable-nodpi\\b.png"
     },
     {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\blue.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\blue.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\h.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\h.xml"
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\home.png"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logopressed.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\logopressed.xml"
+    },
+    {
+        "merged": "D:\\BKrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\b.png",
+        "source": "D:\\BKrepo\\BudgetKeeper\\res\\drawable-nodpi\\b.png"
     },
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home_button.xml",
@@ -434,14 +442,6 @@
     {
         "merged": "E:\\Eclipse Android Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button4.xml",
         "source": "E:\\Eclipse Android Workspace\\BudgetKeeper\\res\\drawable-nodpi\\button4.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\button4.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\button4.xml"
-    },
-    {
-        "merged": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\edit_text.xml",
-        "source": "E:\\Android Studio Projects Workspace\\BudgetKeeper\\res\\drawable-nodpi\\edit_text.xml"
     },
     {
         "merged": "D:\\localrepo\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x2.png",
