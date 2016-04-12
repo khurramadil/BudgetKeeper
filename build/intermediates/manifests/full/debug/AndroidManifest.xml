@@ -8,6 +8,16 @@
         android:minSdkVersion="11"
         android:targetSdkVersion="18" />
 
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_CALL_LOG" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo"
@@ -26,30 +36,26 @@
         <activity
             android:name="com.example.budgetkeeper.newentry"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name="com.example.budgetkeeper.view"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name="com.example.budgetkeeper.graph"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name="com.example.budgetkeeper.calendar"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name="com.example.budgetkeeper.Editentry"
             android:label="@string/title_activity_editentry"
             android:launchMode="singleTask"
-            android:theme="@android:style/Theme.Dialog" >
-        </activity>
+            android:theme="@android:style/Theme.Dialog" />
         <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity android:name="com.example.budgetkeeper.Main2Activity" />
     </application>
 
 </manifest>

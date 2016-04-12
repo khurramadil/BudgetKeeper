@@ -2,21 +2,31 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.budgetkeeper"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="18" />
 
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_CALL_LOG" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
+            android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,30 +36,26 @@
         <activity
             android:name=".newentry"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name=".view"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name=".graph"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name=".calendar"
             android:label="@string/app_name"
-            android:launchMode="singleTask" >
-        </activity>
+            android:launchMode="singleTask" />
         <activity
             android:name=".Editentry"
             android:label="@string/title_activity_editentry"
             android:launchMode="singleTask"
-            android:theme="@android:style/Theme.Dialog" >
-        </activity>
-        <activity android:name="org.achartengine.GraphicalActivity"></activity>
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity android:name=".Main2Activity"></activity>
     </application>
 
 </manifest>
