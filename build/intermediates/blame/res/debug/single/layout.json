@@ -1,5 +1,25 @@
 [
     {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\editentry.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\editentry.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\graph.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\view.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\view.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\newentry.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\newentry.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\layout\\custom_dialog.xml"
     },
@@ -12,12 +32,24 @@
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\layout\\editentry.xml"
     },
     {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\prompt.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\prompt.xml"
+    },
+    {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\prompt.xml",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\layout\\prompt.xml"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\custom_dialog.xml"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\view.xml",
@@ -34,5 +66,9 @@
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\layout\\calendar.xml"
     }
 ]

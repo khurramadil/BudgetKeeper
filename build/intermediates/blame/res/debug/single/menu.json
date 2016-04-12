@@ -2,5 +2,9 @@
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\menu\\main.xml"
     }
 ]

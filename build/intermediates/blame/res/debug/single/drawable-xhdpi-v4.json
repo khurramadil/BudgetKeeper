@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Test2\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Test2\\BudgetKeeper\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "E:\\Android\\AndroidStudioProjects\\BudgetKeeper\\res\\drawable-xhdpi\\ic_launcher.png"
     }
